@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2023-12-10T01:42:19.857616",
+    "startedAt": "2023-12-10T01:42:19.055028",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:/FallCheck/ter.py",
+    "codePathLocal": "ter.py",
+    "codePath": "ter.py",
+    "host": "201-19",
+    "username": "Administrator",
+    "executable": "C:\\ProgramData\\Anaconda3\\envs\\py3.8.5\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3792.0,
+        "min": 0.0,
+        "max": 3792.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3792.0,
+            "min": 0.0,
+            "max": 3792.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 246.74316024780273,
+            "used": 43.11246109008789
+        }
+    },
+    "gpu": "NVIDIA RTX A2000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A2000",
+            "memory_total": 6033506304
+        }
+    ],
+    "memory": {
+        "total": 31.38351058959961
+    }
+}
